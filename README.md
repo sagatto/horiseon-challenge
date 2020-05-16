@@ -17,11 +17,11 @@ This challenge requires the existing codes to be refactored, meeting the client'
 - Changed title to "Horiseon Social Solution Services - Professional SEO Services"
 - Fixed indents for better viewing
 - Added comments at start of each component
-- Changed "<div class="header">" to '<header>'
-- Changed navigation section from <div> to <nav>
+- Changed &lt;div class="header"&gt; to &lt;header&gt;
+- Changed navigation section from &lt;div&gt; to &lt;nav&gt;
 - Added NBSP to hero imaage section
-- Use <section> instead of <div> to differentiate different parts of the page
-- Updated id / class attributes for "Search Engine Optimization" navigation link and CSS selectors
+- Use &lt;section&gt; instead of &lt;div&gt; to differentiate different parts of the page
+- Updated id/class attributes for "Search Engine Optimization" navigation link and CSS selectors
 - Switched img and p codes of "Online Reputation Management" so they are in order
 - Added alt attributes to all images
 
