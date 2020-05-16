@@ -12,7 +12,7 @@ This challenge requires the existing codes to be refactored, meeting the client'
 
 ## Refactorizations
 
-# HTML codes
+### HTML codes
 
 - Changed title to "Horiseon Social Solution Services - Professional SEO Services"
 - Fixed indents for better viewing
@@ -25,7 +25,7 @@ This challenge requires the existing codes to be refactored, meeting the client'
 - Switched img and p codes of "Online Reputation Management" so they are in order
 - Added alt attributes to all images
 
-# CSS codes
+### CSS codes
 
 - Consolidated codes for sections with same stylings
 - Updated selectors according to changes made to HTML
